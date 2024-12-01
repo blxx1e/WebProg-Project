@@ -1,0 +1,20 @@
+#about-section{
+  margin-bottom: 20.5rem;
+}
+
+#about-section .subheading{
+  margin-bottom: 1.5rem;
+}
+
+#about-section .about-me-txt{
+  opacity: 0.5;
+  line-height: 1.3em;
+  padding: 0 1.5rem;
+  font-size: 1.1rem;
+  background-color: rgba(255, 255, 255, 0.116);
+  backdrop-filter: blur(15px);
+  border-radius: 8px;
+  padding: 2rem 2.5rem;
+  border: 1px solid var(--accent-color);
+  text-align: justify;
+}
